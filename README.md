@@ -36,5 +36,16 @@ Parameters - underlying; access to data and sharing from Liege; MESA data set ha
 
 Community engagement
 
+One group will be focused on data descriptors, including mandatory and optional measures, and coming up with a 'minimum data set' and how it is described.
+- Grégory, Vincent, Manuel
+  Google Draft
+  
+Another group will be focused on more conceptual issues, such as the types of analysis one can do with actigraphy data. What are the minimum concepts to get out of the data?
+- Christina, Tara, Manuel
+
+Meeting in weekend
+
 Cross-manufacturer validation dataset
 Traceable analytic pipeline
+
+Goal: Two weeks
