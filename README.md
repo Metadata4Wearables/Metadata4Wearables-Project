@@ -1,51 +1,9 @@
 # Chronobiology Data Standards Interest Group (CDSIG)
 
-    - Draft a brief **vision statement** using your personal and project goals. You might address:
+## Vision statement
 
-      - The problem you’re trying to solve.
+The overarching goal of the **Chronobiology Data Standards Interest Group (CDSIG)** is to develop a set of meta-data and data standards for the field of chronobiology, with a view to enhancing the openness, transparency and reproducibility of research in the field.
 
-      - How you think openness and open leadership will help solve it.
+As part of OLS-3, we will develop a data standard for actigraphy/actimetry, i.e. the quantitative measurement of rest and activity using wrist-worn devices. At present, there is no one standard for storing, formatting and sharing data, with different manufacturers producing different data formats.
 
-      - How meeting your personal goals will help you and help solve the problem.
-
-      - How meeting your cultural goals for your community, organization, or project will help solve the problem.
-
-     - Add your vision statement to your repo by uploading it or copy and pasting it into your README document.
-
-      - Anything else
-      
-Focus on actigraphy data
-EEG standards set by sleep community
-
-Two groups
-
-(1) Adjacent data standards: BIDS, Frictionless Data
-(2) Items for meta-data and data
-    - Description of data vs. analysis separate
-    - Modular
-    - Optional vs. mandatory
-    
-(A) Collect samples, minimal set of descriptors
-    
-(B) Conceptual / sleep-wake timing
-    Influence of the manufacturer and algorithm
-
-Algorithm to distinguish wake from sleep
-Larger goal: Understand algorithms and what they can do, tunable parameters; multiverse analysis; decouple uncertainties (systematic and statistical uncertainty).
-Parameters - underlying; access to data and sharing from Liege; MESA data set has scoring
-
-Community engagement
-
-One group will be focused on data descriptors, including mandatory and optional measures, and coming up with a 'minimum data set' and how it is described.
-- Grégory, Vincent, Manuel
-  Google Draft
-  
-Another group will be focused on more conceptual issues, such as the types of analysis one can do with actigraphy data. What are the minimum concepts to get out of the data?
-- Christina, Tara, Manuel
-
-Meeting in weekend
-
-Cross-manufacturer validation dataset
-Traceable analytic pipeline
-
-Goal: Two weeks
+More concretely, we will (1) produce a draft data standard, which identifies minimum, mandatory and optional information to be contained in the data, (2) map out the extent to which different kinds of data can be used to analyse different physiological outcomes, such as minute-by-minute sleep-wake classifications, and (3) plan strategies for engaging with the community of manufacturers, researchers and research users.
