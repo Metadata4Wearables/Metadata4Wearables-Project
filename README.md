@@ -9,3 +9,11 @@ We start with developing a set of meta-data and data standards for movement sens
 More concretely as part of OLS-3, we will (1) produce a draft data standard, which identifies minimum, mandatory, and optional information to be contained in the data, (2) map out the extent to which different kinds of data can be used to extract and analyse different physiological outcomes, such as sleep-wake classification or chronotype, and (3) plan strategies for engaging with the community of sensor manufacturers, developers of (open-source) data processing software, researchers and research users.
 
 In the long run, we also wish to develop guidelines and protocols for running and reporting actigraphy-based studies.
+
+## Upcoming conferences
+
+EBRS
+SRBR
+SLTBR
+ESRS
+local conferences
