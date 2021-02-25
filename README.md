@@ -10,10 +10,13 @@ More concretely as part of OLS-3, we will (1) produce a draft data standard, whi
 
 In the long run, we also wish to develop guidelines and protocols for running and reporting actigraphy-based studies.
 
-## Upcoming conferences
+## Ideas
 
-EBRS
-SRBR
-SLTBR
-ESRS
-local conferences
+### Upcoming conferences
+
+EBRS, SRBR, SLTBR, ESRS, local conferences; BOSC, ISMB
+
+### Concrete products
+
+- Validator, like the BIDS validator
+- Once we have a data standard and schema, we should approach NSRR
